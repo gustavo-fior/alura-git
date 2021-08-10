@@ -64,7 +64,7 @@ public class AudioTest {
 			
 		}
 		
-		
+		System.out.println("Thanks for using BASS");
 		
 	}
 
