@@ -14,7 +14,7 @@ public class AudioTest {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		String response = "  ";
+		String response = "";
 		
 		try {
 			
